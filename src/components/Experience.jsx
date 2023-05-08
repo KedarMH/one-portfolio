@@ -6,6 +6,9 @@ import javascript from "../assets/javascript.png";
 import reactImage from "../assets/react.png";
 import github from "../assets/github.png";
 import tailwind from "../assets/tailwind.png";
+import nodejs from "../assets/node.png";
+import mongodb from "../assets/mongodb.png";
+import postman from "../assets/postman.png";
 
 const Experience = () => {
   const techs = [
@@ -44,7 +47,25 @@ const Experience = () => {
       id: 6,
       src: github,
       title: "GitHub",
-      style: "shadow-gray-400",
+      style: "shadow-gray-200",
+    },
+    {
+      id: 7,
+      src: nodejs,
+      title: "NodeJs",
+      style: "shadow-lime-400",
+    },
+    {
+      id: 8,
+      src: mongodb,
+      title: "MongoDB",
+      style: "shadow-green-400",
+    },
+    {
+      id: 9,
+      src: postman,
+      title: "Postman",
+      style: "shadow-orange-500",
     },
   ];
 
