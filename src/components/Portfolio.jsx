@@ -10,10 +10,10 @@ const Portfolio = () => {
   const portfolios = [
     {
       id: 1,
-      src: bloodbuddy,
-      title: "BloodBuddy",
-      demo: "https://bloodbuddy.netlify.app/",
-      code: "https://github.com/KedarMH/BloodBuddy-project",
+      src: usabilityhub,
+      title: "Usabilityhub clone",
+      demo: "https://ui-clone-of-usabilityhub.netlify.app/",
+      code: "https://github.com/KedarMH/UI-clone-of-usabilityhub",
     },
     {
       id: 2,
@@ -24,10 +24,10 @@ const Portfolio = () => {
     },
     {
       id: 3,
-      src: usabilityhub,
-      title: "Usabilityhub clone",
-      demo: "https://ui-clone-of-usabilityhub.netlify.app/",
-      code: "https://github.com/KedarMH/UI-clone-of-usabilityhub",
+      src: bloodbuddy,
+      title: "BloodBuddy",
+      demo: "https://bloodbuddy.netlify.app/",
+      code: "https://github.com/KedarMH/BloodBuddy-project",
     },
     {
       id: 4,
