@@ -13,7 +13,7 @@ const About = () => {
           </p>
         </div>
 
-        <p className="text-xl mt-2 text-justify ">
+        <p className="text-xl mt-2  text-justify ">
           Aspiring Full-Stack Developer with a passion for building impactful
           web applications using the MERN stack. Proficient in MongoDB, Express,
           React, and Node.js. Keen to leverage my technical skills and grow my
