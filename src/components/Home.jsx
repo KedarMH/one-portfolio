@@ -6,7 +6,7 @@ import { Link } from "react-scroll";
 const Home = () => {
   return (
     <div
-      name=" home "
+      name="home"
       className="h-screen w-full bg-gradient-to-b from-black via-black to-gray-900"
     >
       <div className="max-w-screen-lg mx-auto flex flex-col items-center justify-center h-full px-4 md:flex-row">
@@ -16,7 +16,7 @@ const Home = () => {
           </h2>
           <p className="text-gray-500 py-4 max-w-md ">
             Currently, I love to work on web application using technologies like
-            Javascript, React JS, Tailwind, Node JS.{" "}
+            Javascript, React JS, Tailwind, Node JS.
           </p>
 
           <div>
